@@ -1,3 +1,3 @@
-A Random Quote Machine (generator)
+# Random Quote Machine (generator)
 
-this project is created using React and Bootstrap
+this project i made using React and Bootstrap
